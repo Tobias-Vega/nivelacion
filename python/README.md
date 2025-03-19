@@ -1,4 +1,4 @@
-# Nivelacion Python con apiFAST
+# Nivelacion Python con FASTApi
 
 1. Clonar el repositorio:
 
