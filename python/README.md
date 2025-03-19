@@ -25,3 +25,5 @@
    uvicorn main:app --reload
    ```
 
+5. Dirigirse a la siguiente url: http://localhost:8000
+
